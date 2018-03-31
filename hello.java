@@ -2,6 +2,6 @@ class test
 {
 public static void main(String args[])
 {
-System.out.println("priya.java");
+System.out.println("nanu.java");
 }
 }
